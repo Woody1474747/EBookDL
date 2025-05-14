@@ -1,0 +1,15 @@
+certifi==2025.4.26
+chardet==5.2.0
+charset-normalizer==3.4.2
+cssselect2==0.8.0
+idna==3.10
+lxml==5.4.0
+pillow==11.2.1
+pypdf==5.5.0
+reportlab==4.4.0
+requests==2.32.3
+setuptools==80.4.0
+svglib==1.5.1
+tinycss2==1.4.0
+urllib3==2.4.0
+webencodings==0.5.1
